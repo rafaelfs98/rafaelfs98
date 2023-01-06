@@ -5,9 +5,10 @@ Software-Engineer at Liferay <a href="https://github.com/liferay"><img title="Li
 
 <hr />
 
-Hey, I'm a full-stack developer, passionate for development WEB and Mobile 💙
+Hey, I'm a Front-End developer  specializing in Back-End end to become Full-Stack, passionate for development WEB and Mobile 💙
 
 Currently, working with React, and on the free time I enjoy to code with:
 * Delphi
 * Java
+* Type Script
 * React Native
