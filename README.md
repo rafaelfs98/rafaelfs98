@@ -17,11 +17,11 @@ Currently, working with React, and on the free time I enjoy to code with:
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-777BB4?style=for-the-badge&logo=delphi&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-D14836?style=for-the-badge&logo=delphi&logoColor=white)
 
 #### Back End:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-D14836?style=for-the-badge&logo=delphi&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-005C84?&style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
