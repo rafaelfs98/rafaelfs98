@@ -10,6 +10,7 @@ Hey, I'm a Front-End developer  specializing in Back-End end to become Full-Stac
 Currently, working with React, and on the free time I enjoy to code with:
 
 #### Front End:
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 ![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -22,16 +23,22 @@ Currently, working with React, and on the free time I enjoy to code with:
 #### Back End:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-D14836?style=for-the-badge&logo=delphi&logoColor=white)
+
+#### Databases
+
 ![MYSQL](https://img.shields.io/badge/MYSQL-005C84?&style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![FIREBIRD](https://img.shields.io/badge/firebird-316192?style=for-the-badge&logo=firebird&logoColor=white)
 
 ##### Auxiliary Technologies:
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Systems:
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-20232A?style=for-the-badge&logo=fedora&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=windows&logoColor=white)
