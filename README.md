@@ -28,7 +28,7 @@ Currently, working with React, and on the free time I enjoy to code with:
 
 ![MYSQL](https://img.shields.io/badge/MYSQL-005C84?&style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![FIREBIRD](https://img.shields.io/badge/firebird-316192?style=for-the-badge&logo=firebird&logoColor=white)
+![FIREBIRD](https://img.shields.io/badge/Firebird-316192?style=for-the-badge&logo=firebird&logoColor=white)
 
 ##### Auxiliary Technologies:
 
