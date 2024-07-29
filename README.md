@@ -1,12 +1,10 @@
 
+# About me
 Software Engineer at Liferay <a href="https://github.com/liferay"><img title="Liferay" alt="@Liferay" src="https://www-cdn.liferay.com/o/osb-www-theme/images/favicon.ico" width="15" height="15"/></a>
 
-<hr />
+Front-End developer  passionate for development WEB 💙
 
-Hey, I'm a Front-End developer  passionate for development WEB 💙
-
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafael-f-s/) 
 
 # 💻 Tech Stack:
