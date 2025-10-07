@@ -1,27 +1,40 @@
+# Olá, eu sou o Rafael Sousa! 👋
 
-# About me
-Software Engineer at Liferay <a href="https://github.com/liferay"><img title="Liferay" alt="@Liferay" src="https://www-cdn.liferay.com/o/osb-www-theme/images/favicon.ico" width="15" height="15"/></a>
+## 🚀 Engenheiro de Software | Liferay | React | TypeScript
 
-Front-End developer  passionate for development WEB 💙
+Sou um Engenheiro de Software com foco no desenvolvimento de soluções modernas e eficientes. Minha carreira é marcada pela atuação em projetos desafiadores, especialmente com a plataforma Liferay DXP, onde aplico meu conhecimento em **React.js**, **TypeScript** e integrações de **APIs REST**.
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafael-f-s/) 
+Tenho uma base sólida em tecnologias front-end como **JavaScript**, **CSS** e **HTML**, e sou proficiente em ferramentas essenciais como **Git**, **GitHub** e **Docker**. Sou um profissional versátil, sempre buscando aprender e me adaptar a novos ambientes e tecnologias para entregar os melhores resultados.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rafaelfs98&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafaelfs98&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfs98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 👨‍💻 Sobre Mim
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rafaelfs98&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🔭 Atualmente trabalho como **Analista Desenvolvedor Front-end Pleno** na [Vertigo Tecnologia](https://www.vertigo.com.br/), atuando como consultor em projetos Liferay e em projetos de sustentação com correção de vulnerabilidades críticas e melhorias de segurança.
+- 🌱 Tenho experiência com migração de plataformas (Java 11 para Java 21), desenvolvimento de portais corporativos e criação de Client Extensions.
+- 🔧 Já trabalhei com desenvolvimento de aplicações desktop em Delphi e banco de dados Firebird.
+- 🎓 Pós-graduado em **Engenharia de Software** pela PUC Minas.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🛠️ Habilidades Técnicas
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rafaelfs98&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Liferay](https://img.shields.io/badge/Liferay-0052A3?style=for-the-badge&logo=liferay&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Shadcn](https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=shadcn-ui&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=rafaelfs98&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🚀 Projetos Pessoais Recentes
+
+- **[Jira Time Tracker](https://github.com/rafaelfs98/jira-time-tracker)**: Uma extensão moderna para Chrome e Firefox que permite fazer tracking de tempo em issues do Jira de forma automática e eficiente.
+- **[Finstash App](https://github.com/rafaelfs98/finstash-app-1.0)**: Aplicativo de Gerenciamento Financeiro Pessoal desenvolvido com Vite, React e TypeScript. Permite rastrear receitas e despesas, categorizar transações e muito mais para uma gestão financeira completa.
+
+### 📫 Entre em Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-f-s/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelferreiratec.informatica@gmail.com)
+
